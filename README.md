@@ -1,5 +1,5 @@
 # Hi, I'm İremnur 👋
 
-I'm a computer engineering student at Boğaziçi University with a focus on Java, Python, OOP, Data Structures, and Algorithms.  
-I build academic projects and enjoy turning complex specifications into clean, structured code.
-
+I'm a Computer Engineering student at Boğaziçi University, interested in software and game development.  
+I work with Java, Python, C, C#, TypeScript, and JavaScript, and enjoy building interactive applications using Unity and web technologies.  
+Currently improving my skills in algorithms and software development.
